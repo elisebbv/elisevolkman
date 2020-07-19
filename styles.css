@@ -193,6 +193,10 @@ header, body, main {
     color: #739fa6;
   }
   
+  @-ms-viewport {
+    width: device-width;
+  }
+
   @media all and (max-width: 768px) { 
     nav {
       padding-top: 0 10px 0 0;
@@ -203,10 +207,6 @@ header, body, main {
       font-size: 16px;
       padding-left: 70px;
       padding-bottom: 10px;
-    }
-
-    h2 {
-      font-size: 20px;
     }
     
     .fa-pen-nib {

@@ -22,10 +22,6 @@ header, body, main {
     text-decoration: underline;
   }
 
-  a:active {
-    color: #e3d0a8;
-  }
-
   nav {
     padding: 10px 20px 0 0;
     text-align: right;
@@ -43,6 +39,10 @@ header, body, main {
   }
 
   nav a:hover {
+    color: #e3d0a8;
+  }
+
+  nav a:active {
     color: #e3d0a8;
   }
   
@@ -193,7 +193,7 @@ header, body, main {
     color: #739fa6;
   }
   
-  @media only screen and (max-width: 768px) { 
+  @media all and (max-width: 768px) { 
     nav {
       padding-top: 0 10px 0 0;
     }

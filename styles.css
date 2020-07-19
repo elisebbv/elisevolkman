@@ -49,8 +49,8 @@ header, body, main {
   hr {
     color: #e3d0a8;
     width: 200px;
-    margin-top: 60px;
-    margin-bottom: 60px;
+    margin-top: 40px;
+    margin-bottom: 40px;
   }
 
   main {
@@ -148,7 +148,7 @@ header, body, main {
   
   #title {
     text-align: center;
-    font-size: 72px;    
+    font-size: 72px;
   }
 
   #subtitle {
@@ -177,7 +177,7 @@ header, body, main {
   #eel {
     display: block;
     margin: auto;
-    width: 30%;
+    width: 20%;
     padding-top: 30px;
   }
 

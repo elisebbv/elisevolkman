@@ -239,4 +239,8 @@ header, body, main {
       width: 100%;
     }
 
+    #eel {
+      width: 40%;
+    }
+
   }

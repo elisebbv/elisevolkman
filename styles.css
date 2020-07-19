@@ -90,10 +90,6 @@ header, body, main {
     background-color: #2d2921;
     color: #e3d0a8;
     border-color: #2d2921;
-  }
-
-  button a:hover {
-    color: #e3d0a8;
     text-decoration: none;
   }
   

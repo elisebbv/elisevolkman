@@ -115,6 +115,10 @@ header, body, main {
     font-size: 14px;
   }
 
+  .top:hover {
+    color: #739fa6;
+  }
+
   #copyright {
     font-size: 12px;
     font-style: italic;
@@ -142,9 +146,17 @@ header, body, main {
     color: #2d2921;
   }
 
+  .fa-facebook-f:hover {
+    color: #739fa6;
+  }
+
   .fa-linkedin-in {
     padding: 10px 10px 40px 10px;
     color: #2d2921;
+  }
+
+  .fa-linkedin-in:hover {
+    color: #739fa6;
   }
   
   #title {

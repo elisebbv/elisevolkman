@@ -59,6 +59,10 @@ header, body, main {
     line-height: 1.8;
   }
   
+  h1 {
+    text-align: center;
+  }
+
   h2 {
     text-align: center;
   }
@@ -175,17 +179,17 @@ header, body, main {
   
   #services-1 {
       width: 33.33%;
-      padding: 10px;
+      padding: 20px;
     }
   
   #services-2 {
       width: 33.33%;
-      padding: 10px;
+      padding: 20px;
     }
   
   #services-3 {
       width: 33.33%;
-      padding: 10px;
+      padding: 20px;
     }
 
   #eel {
@@ -243,14 +247,17 @@ header, body, main {
     
     #services-1 {
       width: 100%;
+      text-align: left;
     }
     
     #services-2 {
       width: 100%;
+      text-align: left;
     }
     
     #services-3 {
       width: 100%;
+      text-align: left;
     }
 
     #eel {

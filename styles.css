@@ -130,6 +130,7 @@ header, body, main {
   }
 
   #contact:hover {
+    color: #739fa6;
     text-decoration: underline;
   }
   

@@ -92,6 +92,11 @@ header, body, main {
     border-color: #2d2921;
     text-decoration: none;
   }
+
+  button a:hover {
+    color: #e3d0a8;
+    text-decoration: none;
+  }
   
   footer{
     background-color: #e3d0a8;

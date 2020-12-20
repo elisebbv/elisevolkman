@@ -58,15 +58,7 @@ header, body, main {
     width: 90%;
     line-height: 1.8;
   }
-  
-  h1 {
-    text-align: center;
-  }
 
-  h2 {
-    text-align: center;
-  }
-  
   section {
     display: block;
     max-width: 1000px;
@@ -163,6 +155,11 @@ header, body, main {
   .fa-instagram:hover {
     color: #739fa6;
   }
+
+  .extra-padding {
+    padding-top: 100px;
+    padding-bottom: 50px;
+  }
   
   #title {
     text-align: center;
@@ -177,13 +174,13 @@ header, body, main {
     display: flex;
   }
   
-  #services-1 {
-      width: 50%;
+  #item-1 {
+      flex: 50%;
       padding: 20px;
     }
   
-  #services-2 {
-      width: 50%;
+  #item-2 {
+      flex: 50%;
       padding: 20px;
     }
 
@@ -194,11 +191,18 @@ header, body, main {
     padding-top: 30px;
   }
 
-  #intro {
+  #intro-img {
     display: block;
     margin: auto;
+    width: 70%;
+  }
+  
+  #intro {
+    display: block;
+    text-align: center;
+    margin: auto;
     padding-bottom: 50px;
-    max-width: 800px;
+    max-width: 500px;
   }
 
   #intro a {
@@ -240,17 +244,12 @@ header, body, main {
       padding: 30px 0;
     }
     
-    #services-1 {
+    #item-1 {
       width: 100%;
       text-align: left;
     }
     
-    #services-2 {
-      width: 100%;
-      text-align: left;
-    }
-    
-    #services-3 {
+    #item-2 {
       width: 100%;
       text-align: left;
     }

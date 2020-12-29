@@ -161,6 +161,13 @@ header, body, main {
     padding-bottom: 50px;
   }
   
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
   #title {
     text-align: center;
     font-size: 48px;

@@ -1,0 +1,27 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+<body
+  lang="{{ .Site.LanguageCode }}"
+>
+  <!-- prettier-ignore -->
+  <section id="main">
+    <div>
+      <ul id="list">
+        <!-- prettier-ignore -->
+        {{ range .Pages }}
+        {{ if ne .Title "" }}
+        <li>
+          <a href="{{ .Permalink}}">{{ .Title }}</a>
+          <span><em>last seen</em> {{ .Lastmod.Format "January 2, 2006" }}</span>
+        </li>
+        <!-- prettier-ignore -->
+        {{ end }}
+        <!-- prettier-ignore -->
+        {{ end }}
+      </ul>
+    </div>
+  </section>
+
+  {{ partial "footer.html" . }}
+  </body>
+</html>

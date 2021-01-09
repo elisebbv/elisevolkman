@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html
+  lang="{{ .Site.LanguageCode }}"
+  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
+>
+  {{ partial "head.html" . }}
+  <body lang="{{ .Site.LanguageCode }}">
+    {{ partial "header.html" .}}
+    <main class="extra-padding">
+        <img src="img/eliseliveedge.png" alt="" id="eel">
+        <h1 id="title">
+          {{ .Site.Title }} {{ .Site.Params.TitleEmoji | emojify }}
+        </h1>
+        <h2 id="subtitle">Editor | Writer</h2>
+        <hr>
+        <div id="intro">
+            <p>
+                Elise offers substantive editing and copy editing for a variety
+                of genres and projects. She particularly enjoys fantasy and
+                science fiction, but has experience with non-fiction, memoirs,
+                and children's picture books.
+            </p>
+        </div>
+        <a href="https://blog.reedsy.com/creative-writing-prompts/author/elise-volkman/" target="_blank">
+            <img
+                src="https://blog-cdn.reedsy.com/images/reedsy-prompts-widget.jpg"
+                width="280"
+                style="width:100%; max-width: 280px;"
+                class="center"
+            />
+        </a>
+    </main>
+    {{ partial "footer.html" . }}
+  </body>
+</html>

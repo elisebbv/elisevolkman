@@ -1,0 +1,52 @@
+baseURL = "https://elisevolkman.com/"
+title = "Elise Volkman"
+theme = ""
+languageCode = "en-us"
+googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = true
+copyright = "Copyright 2020 Elise Volkman"
+description = "Elise Volkman"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+  titleEmoji = ":book:"
+  # change this!
+  twitter = ""
+
+[Permalinks]
+  post = "post/:slug"
+
+[[params.menu]]
+  name = "Home"
+  url = "/"
+
+[[params.menu]]
+  name = "Rates & Services"
+  url = "services/"
+
+[[params.menu]]
+  name = "Newsletter"
+  url = "newsletter/"
+
+[[params.menu]]
+  name = "Blog"
+  url = "post/"
+
+[[params.menu]]
+  name = "Bio"
+  url = "bio/"
+
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true

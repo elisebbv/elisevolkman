@@ -1,0 +1,15 @@
+<header id="header">
+    <a href="/"><i class="fas fa-pen-nib"></i></a><img src="" id="header-img">
+    <nav id="nav-bar">
+        <ul>
+            <!-- pages -->
+            <!-- prettier-ignore -->
+            {{ range .Site.Params.menu }}
+            <li>
+                <a href="{{ .url | absLangURL }}" class="nav-link">{{ .name }}</a>
+            </li>
+            <!-- prettier-ignore -->
+            {{ end }}
+        </ul>
+    </nav>
+</header>

@@ -1,6 +1,5 @@
 baseURL = "https://elisevolkman.com/"
 title = "Elise Volkman"
-theme = ""
 languageCode = "en-us"
 googleAnalytics = "UA-XXXXXXXXX-X"
 enableEmoji = true

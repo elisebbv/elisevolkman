@@ -1,0 +1,21 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+<body lang="{{ .Site.LanguageCode }}">
+    <section id="main">
+        <div>
+            <ul id="list">
+                <!-- prettier-ignore -->
+                {{ range .Data.Pages.ByDate.Reverse }}
+                <li>
+                    <a href="{{ .Permalink}}">{{ .Title }}</a>
+                    <span>{{ .Date.Format "January 2, 2006" }}</span>
+                </li>
+                <!-- prettier-ignore -->
+                {{ end }}
+            </ul>
+        </div>
+    </section>
+
+    {{ partial "footer.html" . }}
+</body>
+</html>

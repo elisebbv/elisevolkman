@@ -153,6 +153,14 @@ footer a:hover {
   padding: 30px;
   }
 
+.fa-quote-left {
+  display: inline;
+  float: left;
+  color: #e3d0a8;
+  font-size: 18px;
+  padding-right: 20px;
+  }
+
 .fa-facebook-f {
   padding: 10px 10px 40px 10px;
   color: #2d2921;
@@ -293,6 +301,17 @@ footer a:hover {
   padding-bottom: 50px;
   max-width: 500px;
   }
+
+#blurb {
+  background: #2c2821;
+  opacity: 0.7;
+  color: #e3d0a8;
+  display: block;
+  margin: auto;
+  margin-top: 100px;
+  padding: 20px;
+  max-width: 400px;
+}
 
 #intro a {
   text-decoration: underline;

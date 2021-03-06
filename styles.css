@@ -188,6 +188,15 @@ footer a:hover {
   color: #739fa6;
   }
 
+.fa-coffee {
+  padding: 10px 10px 40px 10px;
+  color: #2d2921;
+  }
+  
+.fa-coffee:hover {
+  color: #739fa6;
+  }
+
 .extra-padding {
   padding-top: 100px;
   padding-bottom: 50px;

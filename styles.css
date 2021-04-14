@@ -43,7 +43,7 @@ h6 {
 
 a {
     text-decoration: none;
-    color: #2c2821;
+    color: #739fa6;
   }
 
 a:hover {
@@ -142,6 +142,10 @@ footer h1 {
   font-size: 22px;
   }
 
+footer a {
+  color: #2d2921;
+  }
+
 footer a:hover {
   color: #739fa6;
   }
@@ -217,6 +221,7 @@ footer a:hover {
   }
   
 #two-column {
+  flex: 50%;
   padding: 10px;
   }
 

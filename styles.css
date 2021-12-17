@@ -248,23 +248,13 @@ footer a:hover {
   width: 70%;
   }
 
-#read {
+#home-img {
   display: block;
   margin: auto;
   width: 90%;
 }
 
-#read:hover {
-  opacity: 0.7;
-}
-
-#hire {
-  display: block;
-  margin: auto;
-  width: 90%;
-}
-
-#hire:hover {
+#home-img:hover {
   opacity: 0.7;
 }
 

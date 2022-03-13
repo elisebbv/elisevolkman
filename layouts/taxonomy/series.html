@@ -6,16 +6,22 @@
   <!-- prettier-ignore -->
   <section id="main">
     <div>
+      <h1 id="title">{{ .Title }}</h1>
+
       <ul id="list">
         <!-- prettier-ignore -->
         {{ range .Data.Pages.ByDate.Reverse }}
-        <li>
-          <a href="{{ .Permalink}}">{{ .Title }}</a>
-          <span>{{ .Date.Format "January 2, 2006" }}</span>
+        <li id="blog-list">
+            <a href="{{ .Permalink}}" id="blog-link"><article>
+            <strong>{{ .Title }}</strong>
+            </br>
+            <em style="font-size: 14px;">{{ .Date.Format "January 2, 2006" }}</em>
+            </article>
+            </a>
         </li>
         <!-- prettier-ignore -->
         {{ end }}
-      </ul>
+    </ul>
     </div>
   </section>
 

@@ -1,7 +1,10 @@
-<header id="header">
+    <!-- Mobile Top Navigation Menu -->
+  <div class="topnav">
     <a href="/"><img src="/img/eve_logo.png" id="logo"></a>
     <nav id="nav-bar">
-        <ul>
+  </a>
+    <!-- Navigation links (hidden by default) -->
+    <div id="myLinks">
             <!-- pages -->
             <!-- prettier-ignore -->
             {{ range .Site.Params.menu }}
@@ -10,6 +13,9 @@
             </li>
             <!-- prettier-ignore -->
             {{ end }}
-        </ul>
-    </nav>
-</header>
+    </div>
+    <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
+    <a href="javascript:void(0);" class="hamburger" onclick="hamburgerMenu()">
+      <i class="fa fa-bars"></i>
+    </a>
+  </div>

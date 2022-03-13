@@ -8,6 +8,10 @@
             {{- partial "header.html" . -}}
         </header>
 
+        <div>
+            {{- partial "header-mobile.html" . -}}
+        </div>
+        
         <div id="content">{{- block "main" . }}{{ -end }}</div>
 
         <footer>

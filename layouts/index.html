@@ -6,29 +6,34 @@
   {{ partial "head.html" . }}
   <body lang="{{ .Site.LanguageCode }}">
     {{ partial "header.html" .}}
-    <main class="extra-padding">
-        <img src="img/eliseliveedge.png" alt="" id="eel">
-        <h1 id="title">
-          {{ .Site.Title }} {{ .Site.Params.TitleEmoji | emojify }}
-        </h1>
-        <h2 id="subtitle">Editor | Writer</h2>
-        <hr>
-        <div id="intro">
-            <p>
-                Elise offers substantive editing and copy editing for a variety
-                of genres and projects. She particularly enjoys fantasy and
-                science fiction, but has experience with non-fiction, memoirs,
-                and children's picture books.
-            </p>
-        </div>
-        <a href="https://blog.reedsy.com/creative-writing-prompts/author/elise-volkman/" target="_blank">
-            <img
-                src="https://blog-cdn.reedsy.com/images/reedsy-prompts-widget.jpg"
-                width="280"
-                style="width:100%; max-width: 280px;"
-                class="center"
-            />
-        </a>
+    {{ partial "header-mobile.html" .}}
+    <main style="padding-top: 20px;">
+      
+        <section id="flex">
+          <div style="padding-bottom: 20px;">
+            <a href="books.html"><img src="img/home/1.png" alt="The Nymph Keepers Series, Book III coming in 2022" id="home-img"></a>
+          </div>
+          <div>
+            <a href="https://shows.acast.com/the-tea-grannies" target="blank"><img src="img/home/2.png" alt="The Tea Grannies Writing & Editing Podcast" id="home-img"></a>
+            </div>
+          </section>
+      
+          <section id="flex">
+            <div style="padding-bottom: 20px;">
+              <a href="https://instagram.com/elise_is_writing" target="blank"><img src="img/home/3.png" alt="Follow me on Instagram" id="home-img"></a>
+            </div>
+            </div>
+            <div>
+              <a href="https://www.goodreads.com/author/show/21527858.Elise_Volkman" target="blank"><img src="img/home/4.png" alt="Join me on Goodreads" id="home-img"></a>
+            </section>
+
+            <section style="padding: 50px 0; max-width: 900px; text-align: center;">
+
+              <p><em>My name's Elise! Think "Für Elise," but <a href="https://www.youtube.com/watch?v=h6-h1gIwwSI" target="blank">more like this</a>. Here, you can read about the magic and monsters in my head, or we can learn about writing those magic and monsters together in the Tea Grannies Podcast.</em></p>
+              <h5>Elise Volkman, editor/author/podcaster/daydreamer</h5>
+            
+            </section>
+
     </main>
     {{ partial "footer.html" . }}
   </body>

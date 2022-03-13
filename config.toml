@@ -3,8 +3,8 @@ title = "Elise Volkman"
 languageCode = "en-us"
 googleAnalytics = "UA-XXXXXXXXX-X"
 enableEmoji = true
-copyright = "Copyright 2020 Elise Volkman"
-description = "Elise Volkman"
+copyright = "Copyright 2022 Elise Volkman"
+description = "Elise Volkman Editing"
 
 [taxonomies]
   category = "categories"
@@ -19,20 +19,22 @@ description = "Elise Volkman"
 [Permalinks]
   post = "post/:slug"
 
-[[params.menu]]
-  name = "Home"
-  url = "/"
+
 
 [[params.menu]]
-  name = "Rates & Services"
-  url = "services/"
+  name = "Books"
+  url = "books"
 
 [[params.menu]]
-  name = "Newsletter"
-  url = "newsletter/"
+  name = "Editing Services"
+  url = "editing/"
 
 [[params.menu]]
-  name = "Blog"
+  name = "The Tea Grannies Podcast"
+  url = "https://shows.acast.com/the-tea-grannies"
+
+[[params.menu]]
+  name = "Letters from the Editor"
   url = "post/"
 
 [[params.menu]]

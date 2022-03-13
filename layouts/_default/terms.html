@@ -1,24 +1,30 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
+{{ partial "header-mobile.html" . }}
 <body
   lang="{{ .Site.LanguageCode }}"
 >
   <!-- prettier-ignore -->
   <section id="main">
     <div>
+
+      <h1 id="title">{{ .Title }}</h1>
+
       <ul id="list">
         <!-- prettier-ignore -->
-        {{ range .Pages }}
-        {{ if ne .Title "" }}
-        <li>
-          <a href="{{ .Permalink}}">{{ .Title }}</a>
-          <span><em>last seen</em> {{ .Lastmod.Format "January 2, 2006" }}</span>
+        {{ range .Data.Pages.ByDate.Reverse }}
+        <li id="blog-list">
+            <a href="{{ .Permalink}}" id="blog-link"><article>
+            <strong>{{ .Title }}</strong>
+            </br>
+            <em style="font-size: 14px;">{{ .Date.Format "January 2, 2006" }}</em>
+            </article>
+            </a>
         </li>
         <!-- prettier-ignore -->
         {{ end }}
-        <!-- prettier-ignore -->
-        {{ end }}
-      </ul>
+    </ul>
+
     </div>
   </section>
 

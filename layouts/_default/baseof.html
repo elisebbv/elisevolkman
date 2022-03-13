@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {{- partial "head.html" . -}}
+    </head>
+    <body>
+        <header id="header">
+            {{- partial "header.html" . -}}
+        </header>
+
+        <div>
+            {{- partial "header-mobile.html" . -}}
+        </div>
+        
+        <div id="content">{{- block "main" . }}{{ -end }}</div>
+
+        <footer>
+            {{- partial "footer.html" . -}}
+        </footer>
+    </body>
+</html>

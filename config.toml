@@ -1,0 +1,53 @@
+baseURL = "https://elisevolkman.com/"
+title = "Elise Volkman"
+languageCode = "en-us"
+googleAnalytics = "UA-XXXXXXXXX-X"
+enableEmoji = true
+copyright = "Copyright 2022 Elise Volkman"
+description = "Elise Volkman Editing"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+  titleEmoji = ":book:"
+  # change this!
+  twitter = ""
+
+[Permalinks]
+  post = "post/:slug"
+
+
+
+[[params.menu]]
+  name = "Books"
+  url = "books"
+
+[[params.menu]]
+  name = "Editing Services"
+  url = "editing/"
+
+[[params.menu]]
+  name = "The Tea Grannies Podcast"
+  url = "https://shows.acast.com/the-tea-grannies"
+
+[[params.menu]]
+  name = "Letters from the Editor"
+  url = "post/"
+
+[[params.menu]]
+  name = "Bio"
+  url = "bio/"
+
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true

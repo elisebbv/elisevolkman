@@ -1,0 +1,38 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+{{ partial "header-mobile.html" . }}
+<body lang="{{ .Site.LanguageCode }}">
+<main>
+    <section id="main">
+        <div>
+            <h1 id="title">Letters from the Editor</h1>
+
+            <ul id="list">
+                <!-- prettier-ignore -->
+                {{ range .Data.Pages.ByDate.Reverse }}
+                <li id="blog-list">
+                    <a href="{{ .Permalink}}" id="blog-link"><article>
+                    <strong>{{ .Title }}</strong>
+                    </br>
+                    <em style="font-size: 14px;">{{ .Date.Format "January 2, 2006" }}</em>
+                    </article>
+                    </a>
+                </li>
+                <!-- prettier-ignore -->
+                {{ end }}
+            </ul>
+        </div>
+    </section>
+
+    <iframe width="540" height="500" src="https://b0545c87.sibforms.com/serve/MUIEAK-wnrw8CYw9QAOuZDmZo5WKrHlId4mRt5hSFfeE9A3pnGiVAGVSE0G-tdvhrl2CbxGV6C3AUOFJG4-20PYPuBrlAeHCgTbOa4c5g5KIqdFd0ifpi2X8qzbH0Wms_vsYvJ2d7hwcjwIMLOEzl8GVbcPNE71umVDBByT7AKRLWTVUKjXQbQkmwVEZTVziAgfR8YG3FO2MIj9X" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 100%; height: 600px;"></iframe>
+  
+  <p style="text-align: center;">Are you a writer? Editor? Reader? Check out these other resources:</p>
+  <ul style="text-align: center;">
+    <a href="https://creativeacademyforwriters.com/" target="_blank"><li>The Creative Academy</li></a>
+    <a href="https://theselfpublishingagency.com/" target="_blank"><li>The Self Publishing Agency</li></a>
+  </ul>
+
+</main>
+    {{ partial "footer.html" . }}
+</body>
+</html>

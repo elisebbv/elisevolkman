@@ -27,7 +27,7 @@ description = "Elise Volkman Editing"
 
 [[params.menu]]
   name = "Editing Services"
-  url = "editing/"
+  url = "editing"
 
 [[params.menu]]
   name = "The Tea Grannies Podcast"
@@ -39,7 +39,7 @@ description = "Elise Volkman Editing"
 
 [[params.menu]]
   name = "Bio"
-  url = "bio/"
+  url = "bio"
 
 
 [privacy]

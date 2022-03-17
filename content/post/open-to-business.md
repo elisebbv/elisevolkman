@@ -4,7 +4,6 @@ date: "2022-03-17"
 tags:
   - Introduction
   - Open for Business
-draft: false
 ---
 
 ## Hello. I'm Elise! 

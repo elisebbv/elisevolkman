@@ -1,0 +1,67 @@
+#flex {
+display: flex;
+flex-direction: row;
+}
+
+#two-column {
+padding: 10px;
+}
+
+#bio-img {
+display: block;
+margin: auto;
+width: 70%;
+}
+
+#home-img {
+display: block;
+margin: auto;
+width: 90%;
+}
+
+#home-img:hover {
+opacity: 0.7;
+}
+
+#home-columns {
+    display: block;
+    margin: auto;
+    width: 86%;
+}
+
+#book-img {
+display: block;
+width: 70%;
+}
+
+#blurb {
+background: #2c2821;
+opacity: 0.7;
+color: #e3d0a8;
+display: block;
+margin: auto;
+padding: 20px;
+max-width: 300px;
+}
+
+@media all and (max-width: 800px) { 
+
+    #book-img {
+        width: 60%;
+        margin: auto;
+    }
+
+    #flex {
+        flex-direction: column;
+        padding: 10px 10px;
+    }
+
+    #blurb {
+        padding-bottom: 20px;
+    }
+
+    .littlelink {
+        padding-bottom: 30px;
+    }
+
+}

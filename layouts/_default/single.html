@@ -1,13 +1,13 @@
 {{ partial "head.html" . }}
 {{ partial "header.html" . }}
 {{ partial "header-mobile.html" . }}
+
 <body
   lang="{{ .Site.LanguageCode }}"
   itemscope
   itemtype="http://schema.org/Article"
 >
   <section id="main">
-    <h1 itemprop="name" id="title">{{ .Title }}</h1>
 
     <article itemprop="articleBody" id="content">
       {{ .Content }}

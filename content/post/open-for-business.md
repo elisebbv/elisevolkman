@@ -1,9 +1,9 @@
 ---
-title: "Open to Business"
+title: "Open for Business"
 date: "2022-03-17"
 tags:
-  - Introduction
-  - Open for Business
+  - introduction
+  - openforBusiness
 ---
 
 ## Hello. I'm Elise! 

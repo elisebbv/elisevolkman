@@ -2,6 +2,14 @@
 {{ partial "header.html" . }}
 {{ partial "header-mobile.html" . }}
 <body lang="{{ .Site.LanguageCode }}">
+
+    {{ if not (in (.Site.BaseURL | string) "localhost") }}
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TVS5CPC"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    {{ end }}
+    
 <main>
 
     <h1 class="title">Letters from the Editor</h1>

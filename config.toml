@@ -1,7 +1,7 @@
 baseURL = "https://elisevolkman.com/"
 title = "Elise Volkman"
 languageCode = "en-us"
-googleAnalytics = "G-7Y2V9C7WHS"
+gtm = "GTM-TVS5CPC"
 enableEmoji = true
 copyright = "Copyright 2022 Elise Volkman"
 description = "Elise Volkman Editing"

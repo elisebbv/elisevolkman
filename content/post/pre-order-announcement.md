@@ -14,7 +14,7 @@ tags:
  
 In the final book of The Nymph Keepers, Forest struggles with her duties as court herbalist and the expectations of a future queen as the rot ravaging Galia’s lands creeps over the borders into the other provinces.
  
-And pre-orders are now OPEN.
+[And pre-orders are now OPEN.](https://books2read.com/queenofthenymphs)
  
 That's right. After weeks (months) of saying "soon," I'm here to tell you that Queen of the Nymphs is HERE. And in the words of The Incredibles, "It's bigger... [and] It's better!"
 

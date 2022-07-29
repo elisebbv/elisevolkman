@@ -24,5 +24,6 @@ In the meantime, I'll just put a drumroll audio clip on repeat for you while I g
  
 Join me and Forest on August 12th to see how the world- er- story ends!
 
-*xoxo*
+*xoxo,*
+
 *Elise*

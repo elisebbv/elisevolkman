@@ -1,6 +1,6 @@
 ---
 title: "Heart of the Forest: A Synopsis"
-date: 2022-07-30
+date: 2022-07-29
 tags:
   - Writing
   - The Nymphs Keepers Trilogy

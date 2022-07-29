@@ -1,6 +1,6 @@
 ---
 title: "Queen of the Nymphs: Available for Pre-Order!"
-date: 2022-07-29
+date: 2022-07-28
 tags:
   - Writing
   - The Nymphs Keepers Trilogy

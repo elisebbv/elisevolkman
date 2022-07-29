@@ -2,9 +2,8 @@
 title: "Ravings on Ravens"
 date: 2022-03-23
 tags:
-  - bookreview
-  - fantasy
-  - amreading
+  - Book Reviews
+  - Fantasy
 ---
 
 <img src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486244049i/30969741.jpg" alt="image" style="float: left;">

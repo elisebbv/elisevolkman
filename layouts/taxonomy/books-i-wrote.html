@@ -1,0 +1,29 @@
+{{ partial "head.html" . }}
+{{ partial "header.html" . }}
+<body
+  lang="{{ .Site.LanguageCode }}"
+>
+    <!-- prettier-ignore -->
+  <section id="main">
+    <div>
+      <h1 id="title">{{ .Title }}</h1>
+    </div>
+
+    <section id="flex">
+      <div id="two-column">
+        <a href="https://books2read.com/rootsofblood" target="_blank"><img src="/img/ROB.png" alt="Roots of Blood book cover" id="book-img"></a>
+      </div>
+      <div id="two-column">
+        <a href="https://books2read.com/heartoftheforest" target="_blank"><img src="/img/HOTF.png" alt="Heart of the Forest book cover" id="book-img"></a>
+      </div>
+      <div id="two-column">
+        <a href="https://books2read.com/queenofthenymphs" target="_blank"><img src="/img/QOTN.png" alt="Queen of the Nymphs book cover" id="book-img"></a>
+      </div>
+      </div>
+    </section>
+    
+  </section>
+
+  {{ partial "footer.html" . }}
+  </body>
+</html>

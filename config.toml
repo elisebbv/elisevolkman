@@ -10,6 +10,7 @@ description = "Elise Volkman Editing"
   category = "categories"
   series = "series"
   tag = "tags"
+  books = "books-i-wrote"
 
 [params]
   titleEmoji = ":book:"

@@ -31,7 +31,11 @@ opacity: 0.7;
 
 #book-img {
 display: block;
-width: 70%;
+width: 90%;
+}
+
+#book-img:hover {
+opacity: 0.7;
 }
 
 #blurb {

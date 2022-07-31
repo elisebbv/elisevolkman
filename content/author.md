@@ -2,6 +2,12 @@
 
 <br>
 
+I write fantasy and science fiction and have a flair for gothic drama. The Nymph Keepers trilogy is my debut ebook series.
+
+[Roots of Blood: Book I of the Nymph Keepers](#roots-of-blood)<br>
+[Heart of the Forest: Book II of the Nymph Keepers](#heart-of-the-forest)<br>
+[Queen of the Nymphs: Book III of the Nymph Keepers](#queen-of-the-nymphs)
+
 <a href="https://books2read.com/rootsofblood" target="blank"><img src="/rob.png" align="right" style="width: 300px;"></a>
 
 ## Roots of Blood

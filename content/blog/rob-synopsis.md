@@ -2,10 +2,10 @@
 title: "Roots of Blood, A Synopsis"
 date: 2022-07-30T12:06:19-07:00
 slug: "roots-of-blood-synopsis"
-description: ""
-keywords: []
+description: "Spoilers for ROOTS OF BLOOD ahead!"
+keywords: [Roots of Blood, The Nymph Keepers trilogy, series, synopsis, spoilers]
 draft: true
-tags: [books, The Nymph Keepers Trilogy]
+tags: [books, The Nymph Keepers]
 math: false
 toc: false
 ---

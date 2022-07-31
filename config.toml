@@ -51,30 +51,30 @@ copyright = "© Elise Volkman {year}"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
+  identifier = "home"
+  name = "home"
+  title = "home"
   url = "/"
   weight = -110
 
 [[menu.main]]
-  identifier = "books"
-  name = "books"
-  title = "books"
-  url = "/books"
+  identifier = "author"
+  name = "author"
+  title = "author"
+  url = "/author"
   weight = -100
 
 [[menu.main]]
-  identifier = "services"
-  name = "services"
-  title = "services"
-  url = "/services"
+  identifier = "editor"
+  name = "editor"
+  title = "editor"
+  url = "/editor"
   weight = -90
 
 [[menu.main]]
-  identifier = "podcast"
-  name = "podcast"
-  title = "podcast"
+  identifier = "tea granny"
+  name = "tea granny"
+  title = "tea granny"
   url = "https://shows.acast.com/the-tea-grannies"
   weight = -80
 

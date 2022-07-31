@@ -2,10 +2,10 @@
 title: "Heart of the Forest, A Synopsis"
 date: 2022-07-30T12:15:57-07:00
 slug: "heart-of-the-forest-synopsis"
-description: ""
-keywords: []
+description: "Spoilers for HEART OF THE FOREST ahead!"
+keywords: [Heart of the Forest, The Nymph Keepers trilogy, series, synopsis, spoilers]
 draft: true
-tags: [books, The Nymph Keepers Trilogy]
+tags: [books, The Nymph Keepers]
 math: false
 toc: false
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Types of Editing"
-date: 2022-07-30T21:41:28-07:00
+date: 2022-07-28T21:41:28-07:00
 slug: "types-of-editing"
 description: ""
 keywords: [developmental editing, copy editing, copyediting, proofreading, getting started]

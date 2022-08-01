@@ -8,7 +8,7 @@ baseURL = "https://elisevolkman.com"
 copyright = "© Elise Volkman {year}"
 
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
-# googleAnalytics = "" 
+# googleAnalytics = "264661200" 
 
 # Optional params
 [params]

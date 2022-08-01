@@ -1,69 +1,29 @@
+{{ define "styles" }}
+    {{ $.Scratch.Set "style_opts" (dict "src" "scss/pages/about.scss" "dest" "css/about.css") }}
+{{ end }}
 
+{{ define "main" }}
 
-<!DOCTYPE html>
-<html
-  lang="{{ .Site.LanguageCode }}"
-  prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"
->
-  {{ partial "head.html" . }}
-  {{ partial "header.html" .}}
-  {{ partial "header-mobile.html" .}}
-  
-  <body lang="{{ .Site.LanguageCode }}">
-
-    <main>
+<div class="splash-container">
+  <div class="splash">
     
-      <h1 class="title">Elise Volkman</h1>
-      <h2 class="subtitle"><em>Author, Editor</em></h2>
+    <img class="hero-img" src="/author-mugshot.jpg">
 
-        <section id="flex" style="padding-top: 50px;">
-          <div style="padding-bottom: 20px;">
-            <a href="books.html"><img src="img/home/1.png" alt="The Nymph Keepers Series, Book III coming in 2022" id="home-img"></a>
-            <div id="home-columns">
-              <h3>Books</h3>
-              <p>Read about the magic and monsters in my head.</p>
-              <a href="/books" class="little-link"><em>Read more...</em></a>
-            </div>
-          </div>
-          <div style="padding-bottom: 20px;">
-            <a href="/editing"><img src="img/home/2.png" alt="Follow me on Instagram" id="home-img"></a>
-            <div id="home-columns">
-              <h3>Editing Services</h3>
-              <p>Developmental Editing, Copy Editing, and more...</p>
-              <a href="/editing" class="little-link"><em>Learn more...</em></a>
-            </div>
-          </div>
-          <div>
-            <a href="https://shows.acast.com/the-tea-grannies" target="blank"><img src="img/home/3.png" alt="The Tea Grannies Writing & Editing Podcast" id="home-img"></a>
-            <div id="home-columns">
-              <h3>Podcast</h3>
-              <p>Writing & Editing tips from Elise and Miraya.</p>
-              <a href="https://shows.acast.com/the-tea-grannies" target="blank" class="little-link"><em>Listen in...</em></a>
-            </div>
-          </div>
-        </section>
+    <h1>{{ .Params.heading }}<span class="fancy">.</span></h1>
+    {{ if isset .Params "handle" }}
+    <span class="handle">@{{ .Params.handle }}</span>
+    {{ end }}
+    <h2>
+      {{ .Params.subheading }}
+    </h2>
 
-        <section style="padding: 50px 0; max-width: 900px; text-align: center;">
+    {{ partial "social-icons.html" .}}
 
-          <p>Who am I? Think "Für Elise," but <a href="https://www.youtube.com/watch?v=h6-h1gIwwSI" target="blank">more like this</a>. Here, you can read about the magic and monsters in my head, or we can learn about writing those magic and monsters together.</p>
-          <h5>Elise Volkman, editor/author/tea granny/daydreamer</h5>
-            
-        </section>
+    <p class="home-links" style="text-align: center; color: #9b9b9b; padding-top: 100px;">
+      <a href="author">my books</a> / <a href="editor">editing services</a> / <a href="blog/bio/">about me</a>
+    </p>
 
-        <section id="flex" style="padding-bottom: 50px;">
-          <div id="blurb">
-            <i class="fas fa-quote-left"></i>
-            <p>Elise has an excellent eye for what works in a story and how to support a writer to reach their individual writing goal.</p>
-            <p style="padding-bottom: 30px;"><em>- <a href="https://eileencook.com/" target="_blank" style="color: #739fa6;">Eileen Cook</a>, author of WITH MALICE</em></p>
-          </div>
-          <div id="blurb">
-            <i class="fas fa-quote-left"></i>
-            <p>Elise's own talent for writing and her attention to detail both inform her editing approach. She will not only help you improve your manuscript, but will help make you a better writer.</p>
-            <p><em>- <a href="https://www.mirayaengelage.ca/" target="_blank" style="color: #739fa6;">Miraya Engelage</a>, writer</em></p>
-          </div>
-        </section>
+  </div>
+</div>
 
-    </main>
-    {{ partial "footer.html" . }}
-  </body>
-</html>
+{{ end }}

@@ -1,5 +1,11 @@
-<main id="main">
-    <div>
-        <h1 id="title"><a href="{{ "/" | relURL }}">Go Home</a></h1>
-    </div>
-</main>
+{{ define "styles" }}
+    {{ $.Scratch.Set "style_opts" (dict "src" "scss/pages/404.scss" "dest" "css/404.css") }}
+{{ end }}
+
+{{ define "main" }}
+<article>
+  <h1>
+    These are not the droids you're looking for.
+  </h1>
+</article>
+{{ end }}

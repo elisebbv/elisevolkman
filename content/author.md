@@ -21,7 +21,7 @@ Nym is the last living nymph in the province of Galia and Jay is out for her blo
 <br>
 <br>
   
-<a href="https://books2read.com/heartoftheforest" target="blank"><img src="/hotf.png" align="right" style="width: 300px;"></a>
+<a href="https://books2read.com/heartoftheforest" target="blank"><img src="/hotf.png" class="my-books-img" align="right" style="width: 300px;"></a>
 
 ## Heart of the Forest
 

@@ -5,7 +5,7 @@ slug: "queen-of-the-nymphs-pre-order"
 description: "Queen of the Nymphs: Book III of the Nymph Keepers is now available for pre-order! Publishes August 12, 2022."
 keywords: [books, writing, queen of the nymphs, the nymph keepers, fantasy, pre-order, announcement]
 draft: true
-tags: [books, The Nymph Keepers]
+tags: [my books, The Nymph Keepers]
 math: false
 toc: false
 ---

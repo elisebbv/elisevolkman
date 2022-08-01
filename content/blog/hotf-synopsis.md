@@ -5,7 +5,7 @@ slug: "heart-of-the-forest-synopsis"
 description: "Spoilers for HEART OF THE FOREST ahead!"
 keywords: [Heart of the Forest, The Nymph Keepers trilogy, series, synopsis, spoilers]
 draft: true
-tags: [books, The Nymph Keepers]
+tags: [my books, The Nymph Keepers]
 math: false
 toc: false
 ---

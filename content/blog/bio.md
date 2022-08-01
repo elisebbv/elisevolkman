@@ -4,7 +4,7 @@ date: 2022-07-27T16:09:48-07:00
 slug: ""
 description: ""
 keywords: []
-draft: true
+draft: false
 tags: []
 math: false
 toc: false

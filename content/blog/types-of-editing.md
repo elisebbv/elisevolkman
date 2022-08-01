@@ -4,7 +4,7 @@ date: 2022-07-28T21:41:28-07:00
 slug: "types-of-editing"
 description: ""
 keywords: [developmental editing, copy editing, copyediting, proofreading, getting started]
-draft: true
+draft: false
 tags: [editing]
 math: false
 toc: false

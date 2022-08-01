@@ -4,7 +4,7 @@ date: 2022-08-01T12:33:21-07:00
 slug: "good-writing"
 description: "I can count on my hand the number of books I've read this year that have made me want to write."
 keywords: [writing, inspiration, book reviews, fantasy, romance, mystery]
-draft: true
+draft: false
 tags: [writing, book reviews]
 math: false
 toc: false

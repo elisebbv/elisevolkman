@@ -1,8 +1,10 @@
-# The Nymph Keepers Trilogy
-
-<br>
+---
+title: Books
+---
 
 I write fantasy and science fiction and have a flair for gothic drama. The Nymph Keepers trilogy is my debut ebook series.
+
+# The Nymph Keepers Trilogy
 
 [Roots of Blood: Book I of the Nymph Keepers](#roots-of-blood)<br>
 [Heart of the Forest: Book II of the Nymph Keepers](#heart-of-the-forest)<br>

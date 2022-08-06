@@ -1,6 +1,6 @@
-# Editing Services
-
-<br>
+---
+title: Editing Services
+---
 
 For an idea of what I enjoy working on, check out my [editing portfolio](#my-editing-portfolio).
 

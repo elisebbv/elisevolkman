@@ -41,12 +41,12 @@ You will receive a PDF of your manuscript with corrections and comments on any r
 
 ## My Editing Portfolio
 
-**FICTION**
+#### FICTION
 
 *Through Fire & Ruin,* Jennifer Becker, Alice Karpiel (new adult fantasy)<br>
 *The Laeta King,* G.P. Dumitrascu (epic fantasy)
 
-**NON-FICTION**
+#### NON-FICTION
 
 *It Was Meant to Be,* Sylvia Baize (memoir: adoption)<br>
 *Maria's Italian Cucina,* Maria Larosa (cookbook: Italian recipes)<br>

@@ -4,7 +4,7 @@ title: Books
 
 I write fantasy and science fiction and have a flair for gothic drama. The Nymph Keepers trilogy is my debut ebook series.
 
-# The Nymph Keepers Trilogy
+## The Nymph Keepers Trilogy
 
 [Roots of Blood: Book I of the Nymph Keepers](#roots-of-blood)<br>
 [Heart of the Forest: Book II of the Nymph Keepers](#heart-of-the-forest)<br>
@@ -12,7 +12,7 @@ I write fantasy and science fiction and have a flair for gothic drama. The Nymph
 
 <a href="https://books2read.com/rootsofblood" target="blank"><img src="/rob.png" align="right" style="width: 300px;"></a>
 
-## Roots of Blood
+### Roots of Blood
 
 *Book I of the Nymphs Keepers* <br>
 Nym is the last living nymph in the province of Galia and Jay is out for her blood. 
@@ -25,7 +25,7 @@ Nym is the last living nymph in the province of Galia and Jay is out for her blo
   
 <a href="https://books2read.com/heartoftheforest" target="blank"><img src="/hotf.png" class="my-books-img" align="right" style="width: 300px;"></a>
 
-## Heart of the Forest
+### Heart of the Forest
 
 *Book II of the Nymph Keepers* <br>
 War has come to Ireece and the king of Fethens is dying.
@@ -40,7 +40,7 @@ War has come to Ireece and the king of Fethens is dying.
 
 <a href="https://books2read.com/queenofthenymphs" target="blank"><img src="/qotn.png" align="right" style="width: 300px;"></a>
 
-## Queen of the Nymphs
+### Queen of the Nymphs
 
 *Book III of the Nymph Keepers*
 

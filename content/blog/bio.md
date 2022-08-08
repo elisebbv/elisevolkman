@@ -1,11 +1,11 @@
 ---
 title: "Nice to meet you!"
 date: 2022-07-27T16:09:48-07:00
-slug: ""
-description: ""
-keywords: []
+slug: "about-me"
+description: "I write fantasy for fun, read fantasy for research, and fantasize about the friends I'd have if I left the house more."
+keywords: [about me, bio, nice to meet you, about the author, about the editor, meet the author, meed the editor, fantasy, writer, freelance editor, podcast, Eileen Cook, Simon Fraser University, Elise Volkman]
 draft: false
-tags: []
+tags: [about me]
 math: false
 toc: false
 ---

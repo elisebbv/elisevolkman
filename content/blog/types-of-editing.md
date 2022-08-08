@@ -2,7 +2,7 @@
 title: "Types of Editing"
 date: 2022-07-28T21:41:28-07:00
 slug: "types-of-editing"
-description: ""
+description: "Editing in three acts: Developmental, Copy, and Proofreads."
 keywords: [developmental editing, copy editing, copyediting, proofreading, getting started]
 draft: false
 tags: [editing]

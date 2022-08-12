@@ -1,10 +1,10 @@
 ---
 title: "Find Out How the Story Ends"
-date: 2022-08-08T15:06:24-07:00
+date: 2022-08-12T07:30:00-07:00
 slug: "queen-of-the-nymphs-launch-day"
 description: "Queen of the Nymphs: Book III of the Nymph Keepers is now available wherever ebooks are sold! Find out how the story ends..."
 keywords: [books, writing, queen of the nymphs, the nymph keepers, fantasy, launch day, announcement, publishing day, indie publishing, indie author, trilogy, finale]
-draft: true
+draft: false
 tags: [my books, The Nymph Keepers]
 math: false
 toc: false

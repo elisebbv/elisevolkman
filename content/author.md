@@ -18,7 +18,7 @@ I write fantasy and science fiction and have a flair for gothic drama. The Nymph
 Nym is the last living nymph in the province of Galia and Jay is out for her blood. 
 <br>
 <br>
-<a href="https://books2read.com/rootsofblood" target="blank">Pick your store</a> 
+<a href="https://books2read.com/rootsofblood" target="blank">Pick your store</a> or <a href="https://elisevolkman.com/blog/roots-of-blood-synopsis/">read the synopsis</a>
 <br>
 <br>
 <br>
@@ -31,7 +31,7 @@ Nym is the last living nymph in the province of Galia and Jay is out for her blo
 War has come to Ireece and the king of Fethens is dying.
 <br>
 <br>
-<a href="https://books2read.com/heartoftheforest" target="blank">Pick your store</a> 
+<a href="https://books2read.com/heartoftheforest" target="blank">Pick your store</a> or <a href="https://elisevolkman.com/blog/heart-of-the-forest-synopsis/">read the synopsis</a>
 <br>
 <br>
 <br>
@@ -47,4 +47,4 @@ War has come to Ireece and the king of Fethens is dying.
 Who will they save and who will they serve? Time is running out.
 <br>
 <br>
-<a href="https://books2read.com/queenofthenymphs" target="blank">Pre-order now!</a> 
+<a href="https://books2read.com/queenofthenymphs" target="blank">Pick your store</a> 

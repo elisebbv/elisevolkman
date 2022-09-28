@@ -75,7 +75,7 @@ googleAnalyticsID = "G-7Y2V9C7WHS"
   identifier = "tea granny"
   name = "tea granny"
   title = "tea granny"
-  url = "https://shows.acast.com/the-tea-grannies"
+  url = "/theteagrannies"
   weight = -80
 
 [[menu.main]]

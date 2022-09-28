@@ -48,9 +48,9 @@ You will receive a PDF of your manuscript with corrections and comments on any r
 
 #### NON-FICTION
 
-*It Was Meant to Be,* Sylvia Baize (memoir: adoption)<br>
 *Maria's Italian Cucina,* Maria Larosa (cookbook: Italian recipes)<br>
 *The B Word: Infertility and Other Conversations,* Simona Altvilla Moss (memoir: infertility)<br>
 *Waiting for Rainbows,* Ashley Berry (memoir: infertility & adoption)<br>
+*It Was Meant to Be,* Sylvia Baize (memoir: adoption)<br>
 *Living in the Red,* Nicole Wilson (memoir: finance)<br>
 *The Box in the Closet,* Jayne Doxtater (memoir: gender)

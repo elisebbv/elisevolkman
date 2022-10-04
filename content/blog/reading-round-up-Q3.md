@@ -10,7 +10,7 @@ math: false
 toc: false
 ---
 
-[Skip to the books](The-Winternight-Trilogy)<br>
+[Skip to the books](#the-winternight-trilogy)<br>
 
 ## Slowing Down But Never Stopping
 
